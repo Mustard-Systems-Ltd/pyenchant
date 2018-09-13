@@ -1,3 +1,6 @@
+Fork of [pyenchant](https://github.com/rfk/pyenchant) library.
+This package also supports `enchant-2` for arch linux.
+
 Status: Unmaintained
 ====================
 
